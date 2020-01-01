@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 I'm currently studying for a master's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
