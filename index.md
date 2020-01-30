@@ -1,10 +1,15 @@
-I'm currently studying for a master's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
+Hi!!! I'm currently studying for a master's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment
 
-### Markdown
+### Education
+* MSc. Student in Computer Science at Federal University of Pernambuco (Recife, PE)
+* BSc. in Information Systems at University of Pernambuco (Caruaru, PE)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
+- [Github](https://github.com/denini08/)
+- [Linkedin](https://www.linkedin.com/in/denini-gabriel-2000b715b/)
+- Email: denini.gabriel@gmail.com
 
 ```markdown
 Syntax highlighted code block
