@@ -1,4 +1,4 @@
-![Foto pessoal](https://github.com/denini08/denini08.github.io/blob/master/foto.jpeg)
+![Foto pessoal](photo.jpeg)
 
 Hi!!! I'm currently studying for a master's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
