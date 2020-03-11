@@ -5,8 +5,8 @@ Hi!!! I'm currently studying for a master's degree in Computer Science at Federa
 I am interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment.
 
 ### Education
-* MSc. Student in Computer Science at Federal University of Pernambuco (Recife, PE)
-* BSc. in Information Systems at University of Pernambuco (Caruaru, PE)
+* MSc. Student in Computer Science at Federal University of Pernambuco (Recife, PE) 2016-2019
+* BSc. in Information Systems at University of Pernambuco (Caruaru, PE) 2020-2022
 
 ### Contact
 - [Github](https://github.com/denini08/)
