@@ -1,4 +1,4 @@
-![Foto pessoal](./photo.jpeg)
+[<img src="photo.jpeg" width="250"/>](photo.jpeg)
 
 Hi! My name is Denini, I'm 22 years old and passionate about computing, more specifically to what is connected to programming languages. In 2020, I decided to embark in the research area.
 
@@ -18,7 +18,7 @@ IEEE International Conference on Software Maintenance and Evolution. (accpt. 28.
 * MSc. Student in Computer Science at Federal University of Pernambuco (Recife, PE) 2020-2022
 * BSc. in Information Systems at University of Pernambuco (Caruaru, PE) 2016-2019
 
-If you want to chat with me, start a possible partnership or other matter, send me a message:
+If you wanna talk to me, perhaps discuss a partnership or anything else, send me a message:
 
 ### Contact
 - [Github](https://github.com/denini08/)
