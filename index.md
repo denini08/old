@@ -1,11 +1,17 @@
 ![Foto pessoal](photo.jpeg)
 
-Hi! my name is Denini, I'm 21 years old and passionate about computing, more specifically to what is connected to programming languages. In 2020, I decided to embark in the research area.
+Hi! my name is Denini, I'm 22 years old and passionate about computing, more specifically to what is connected to programming languages. In 2020, I decided to embark in the research area.
 
 I'm currently studying for a master's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
 I am interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment.
 
+### Publications
+
+1. **Shake It! Detecting Flaky Tests Caused by Concurrency with Shaker**  
+Denini Silva, Leopoldo Teixeira and Marcelo d'Amorim  
+IEEE International Conference on Software Maintenance and Evolution. (accpt. 28.9% [58/201])  
+[ICSME 2020](https://icsme2020.github.io/), Adelaide, Australia [Remote COVID19], September 2020.  
 
 
 ### Education
