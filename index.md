@@ -1,4 +1,4 @@
-![Foto pessoal](photo.jpeg =142x163)
+![Foto pessoal](./photo.jpeg)
 
 Hi! My name is Denini, I'm 22 years old and passionate about computing, more specifically to what is connected to programming languages. In 2020, I decided to embark in the research area.
 
