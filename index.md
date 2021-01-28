@@ -8,10 +8,17 @@ I'm interested in software engineering, programming language, testing and softwa
 
 ### Publications
 
-1. **Shake It! Detecting Flaky Tests Caused by Concurrency with Shaker**  
+* **Shipwright: A Human-in-the-Loop System for Dockerfile Repair**  
+[Jordan Henkel](https://pages.cs.wisc.edu/~jjhenkel/), Denini Silva, [Leopoldo Teixeira](https://www.cin.ufpe.br/~lmt/), [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/) and [Thomas Reps](http://pages.cs.wisc.edu/~reps/)
+International Conference on Software Engineering (accpt. 23% [138/602])  
+[ICSE 2021](https://conf.researchr.org/home/icse-2021), Madrid, Spain [Remote COVID19], May 2021.
+
+* **Shake It! Detecting Flaky Tests Caused by Concurrency with Shaker**  
 Denini Silva, [Leopoldo Teixeira](https://www.cin.ufpe.br/~lmt/) and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)  
 IEEE International Conference on Software Maintenance and Evolution. (accpt. 28.9% [58/201])  
 [ICSME 2020](https://icsme2020.github.io/), Adelaide, Australia [Remote COVID19], September 2020.  
+
+
 
 
 ### Education
