@@ -1,12 +1,16 @@
-[<img src="photo.jpeg" width="250"/>](photo.jpeg)
+[<img src="photo.jpeg" width="210"/>](photo.jpeg)
 
-Hi! My name is Denini, I'm 22 years old and passionate about computing, more specifically to what is connected to programming languages. In 2020, I decided to embark in the research area.
+Hi! My name is Denini, I'm 23 years old and passionate about computing, more specifically to what is connected to programming languages. In 2020, I decided to embark in the research area.
 
 I'm currently studying for a master's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
 I'm interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment.
 
 ### Publications
+* **Soundy Automated Parallelization of Test Execution**([pdf](), [web](https://github.com/STAR-RG/paste))  
+[Shouvick Mondal](https://sites.google.com/view/shouvick/shouvick-mondal), Denini Silva and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)
+IEEE International Conference on Software Maintenance and Evolution. (accpt. 24% [43/179])  
+[ICSME 2021](https://icsme2021.github.io/), Luxembourg City [Remote COVID19], September 2021.
 
 * **Shipwright: A Human-in-the-Loop System for Dockerfile Repair** ([pdf](https://cin.ufpe.br/~damorim/publications/Henkel_ETAL_ICSE21.pdf), [web](https://github.com/STAR-RG/shipwright))  
 [Jordan Henkel](https://pages.cs.wisc.edu/~jjhenkel/), Denini Silva, [Leopoldo Teixeira](https://www.cin.ufpe.br/~lmt/), [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/) and [Thomas Reps](http://pages.cs.wisc.edu/~reps/)
@@ -30,4 +34,4 @@ If you wanna talk to me, perhaps discuss a partnership or anything else, send me
 ### Contact
 - [Github](https://github.com/denini08/)
 - [Linkedin](https://www.linkedin.com/in/denini-gabriel-2000b715b/)
-- Email: denini.gabriel@gmail.com
+- Email: denini.gabriel@gmail.com or dgs@cin.ufpe.br
