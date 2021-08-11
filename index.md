@@ -7,7 +7,12 @@ I'm currently studying for a master's degree in Computer Science at Federal Univ
 I'm interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment.
 
 ### Publications
-* **Soundy Automated Parallelization of Test Execution**([pdf](), [web](https://github.com/STAR-RG/paste))  
+* **Shaker: a Tool for Detecting More Flaky Tests Faster**([pdf](), [web](https://star-rg.github.io/shaker), [video](https://youtu.be/7-aiQwOb4rA))  
+Marcello Cordeiro, Denini Silva, [Leopoldo Teixeira](https://www.cin.ufpe.br/~lmt/), Breno Miranda and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)  
+IEEE/ACM International Conference on Automated Software Engineering (Tool Demonstrations) (accpt. 47.2% [17/36])  
+[ASE Tool Demos 2021](https://conf.researchr.org/track/ase-2021/ase-2021-tool-demonstrations),  Melbourne City, Australia [Remote COVID19], November 2021.
+
+* **Soundy Automated Parallelization of Test Execution**([pdf](https://cin.ufpe.br/~damorim/publications/MondalETAL_ICSME21.pdf), [web](https://github.com/STAR-RG/paste))  
 [Shouvick Mondal](https://sites.google.com/view/shouvick/shouvick-mondal), Denini Silva and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)
 IEEE International Conference on Software Maintenance and Evolution. (accpt. 24% [43/179])  
 [ICSME 2021](https://icsme2021.github.io/), Luxembourg City [Remote COVID19], September 2021.
