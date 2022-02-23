@@ -13,7 +13,7 @@ IEEE/ACM International Conference on Automated Software Engineering (Tool Demons
 [ASE Tool Demos 2021](https://conf.researchr.org/track/ase-2021/ase-2021-tool-demonstrations),  Melbourne City, Australia [Remote COVID19], November 2021.
 
 * **Soundy Automated Parallelization of Test Execution**([pdf](https://cin.ufpe.br/~damorim/publications/MondalETAL_ICSME21.pdf), [web](https://github.com/STAR-RG/paste))  
-[Shouvick Mondal](https://sites.google.com/view/shouvick/shouvick-mondal), Denini Silva and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)
+[Shouvick Mondal](https://sites.google.com/view/shouvick/shouvick-mondal), Denini Silva and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)  
 IEEE International Conference on Software Maintenance and Evolution. (accpt. 24% [43/179])  
 [ICSME 2021](https://icsme2021.github.io/), Luxembourg City [Remote COVID19], September 2021.
 
