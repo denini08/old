@@ -7,7 +7,7 @@ I'm currently studying for a master's degree in Computer Science at Federal Univ
 I'm interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment.
 
 ### Publications
-* **Shaker: a Tool for Detecting More Flaky Tests Faster**([pdf](), [web](https://star-rg.github.io/shaker), [video](https://youtu.be/7-aiQwOb4rA))  
+* **Shaker: a Tool for Detecting More Flaky Tests Faster**([pdf](https://cin.ufpe.br/~damorim/publications/Cordeiro_ETAL_ASETD2021.pdf), [web](https://star-rg.github.io/shaker), [video](https://youtu.be/7-aiQwOb4rA))  
 Marcello Cordeiro, Denini Silva, [Leopoldo Teixeira](https://www.cin.ufpe.br/~lmt/), Breno Miranda and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)  
 IEEE/ACM International Conference on Automated Software Engineering (Tool Demonstrations) (accpt. 47.2% [17/36])  
 [ASE Tool Demos 2021](https://conf.researchr.org/track/ase-2021/ase-2021-tool-demonstrations),  Melbourne City, Australia [Remote COVID19], November 2021.
