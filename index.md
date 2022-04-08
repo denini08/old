@@ -1,6 +1,6 @@
-[<img src="photo.jpeg" width="210"/>](photo.jpeg)
+[<img src="photo.jpeg" width="150"/>](photo.jpeg)
 
-Hi! My name is Denini, I'm 23 years old and passionate about computing, more specifically to programming languages and software test. In 2020, I decided to embark in the research area. Between 2020 and the beginning of 2022 I did my master's degree, as soon as I finished my master's I started to a PhD (first in the selection).
+Hi! My name is Denini, I'm 23 years old and passionate about computing, more specifically to programming languages and software test. In 2020, I decided to embark in the research area. Between 2020 and the beginning of 2022 I did my master's degree, as soon as I finished my master's I started to a PhD (first in the selection process).
 
 I'm currently a PhD student in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
