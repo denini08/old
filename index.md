@@ -6,6 +6,9 @@ I'm currently a PhD student in Computer Science at Federal University of Pernamb
 
 I'm interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment.
 
+### News
+* **I'm migrating this page to another, not yet completed, but you can access at** [https://denini08.github.io/cv](https://denini08.github.io/cv)
+
 ### Publications
 * **Shaker: a Tool for Detecting More Flaky Tests Faster**([pdf](https://cin.ufpe.br/~damorim/publications/Cordeiro_ETAL_ASETD2021.pdf), [web](https://star-rg.github.io/shaker), [video](https://youtu.be/7-aiQwOb4rA))  
 Marcello Cordeiro, Denini Silva, [Leopoldo Teixeira](https://www.cin.ufpe.br/~lmt/), Breno Miranda and [Marcelo d'Amorim](https://cin.ufpe.br/~damorim/)  
