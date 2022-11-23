@@ -1,13 +1,14 @@
-[<img src="photo.jpeg" width="150"/>](photo.jpeg)
+[<img src="photo1.jpeg" width="150"/>](photo1.jpeg)
 
-Hi! My name is Denini, I'm 23 years old and passionate about computing, more specifically to programming languages and software test. In 2020, I decided to embark in the research area. Between 2020 and the beginning of 2022 I did my master's degree, as soon as I finished my master's I started to a PhD (first in the selection process).
+Hi! My name is Denini, I'm 24 years old and passionate about computing, more specifically software engineering. In 2020, I decided to embark on the research area. Between 2020 and the beginning of 2022 I did my master's degree, and as soon as I finished my master's I started a PhD (first in the selection process).
 
 I'm currently a PhD student in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil). Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
-I'm interested in software engineering, programming language, testing and software development. I'm researching in the software testing area, focused on the Android environment.
+I'm interested in software engineering, programming language, testing, and software development. I'm researching in the software testing area, focused on the Android environment.
 
 ### News
-* **I'm migrating this page to another, not yet completed, but you can access at** [https://denini08.github.io/cv](https://denini08.github.io/cv)
+* **in March 2023 I passed the PhD selection in the first place.** 
+<!--* **I'm migrating this page to another, not yet completed, but you can access at** [https://denini08.github.io/cv](https://denini08.github.io/cv) -->
 
 ### Publications
 * **Shaker: a Tool for Detecting More Flaky Tests Faster**([pdf](https://cin.ufpe.br/~damorim/publications/Cordeiro_ETAL_ASETD2021.pdf), [web](https://star-rg.github.io/shaker), [video](https://youtu.be/7-aiQwOb4rA))  
