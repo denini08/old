@@ -16,6 +16,8 @@ My research interests include:
 
 ## 📰 News
 
+- **July 2025** — Approved in the public exam as **Assistant Professor at the University of Pernambuco (UPE)**.  
+- **February 2025** — Successfully passed the **Ph.D. qualification exam**.  
 - **March 2023** — Admitted to the Ph.D. program **ranked 1st** in the selection process.
 
 ---
