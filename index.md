@@ -1,4 +1,4 @@
-[<img src="photo1.jpeg" width="150" alt="Denini Silva" />](photo1.jpeg)
+[<img src="photo2.jpeg" width="150" alt="Denini Silva" />](photo2.jpeg)
 
 # Denini Silva — Ph.D. Candidate
 
