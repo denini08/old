@@ -4,7 +4,7 @@
 
 Welcome! I'm Denini Silva, a Ph.D. candidate in Computer Science at the Federal University of Pernambuco (Recife, PE – Brazil), advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/). I'm 27 years old and passionate about computing, particularly software engineering.
 
-Since 2020, I’ve been involved in academic research. After completing my M.Sc. in Computer Science (2022), I started my Ph.D. with a focus on software testing, especially in the Android ecosystem.
+Since 2020, I’ve been involved in academic research. After completing my M.Sc. in Computer Science (2022), I started my Ph.D. with a focus on software testing, especially in the Flaky Tests subject.
 
 My research interests include:
 - Software Engineering  
@@ -12,13 +12,16 @@ My research interests include:
 - Software Testing  
 - Software Development  
 
+**I'm developing a new webpage available at https://denini08.github.io/cv (currently under construction).*
+
 ---
 
 ## 📰 News
 
+- **October 2025** — Started **working** as Assistant Professor at the University of Pernambuco (UPE).
 - **July 2025** — Approved in the public exam as **Assistant Professor at the University of Pernambuco (UPE)**.  
-- **February 2025** — Successfully passed the **Ph.D. qualification exam**.  
-- **March 2023** — Admitted to the Ph.D. program **ranked 1st** in the selection process.
+- **February 2025** — Approved in the **Ph.D. qualification exam**.  
+- **March 2022** — Admitted to the Ph.D. program **ranked 1st** in the selection process.
 
 ---
 
