@@ -42,7 +42,7 @@ Acceptance rate: 47.2% (17/36)
 
 ---
 
-**Soundy: Automated Parallelization of Test Execution**  
+**Soundy Automated Parallelization of Test Execution**  
 [PDF](https://cin.ufpe.br/~damorim/publications/MondalETAL_ICSME21.pdf) • [Web](https://github.com/STAR-RG/paste)  
 *Shouvick Mondal, Denini Silva, Marcelo d'Amorim*  
 _IEEE ICSME — Luxembourg City (Remote COVID-19)_  
