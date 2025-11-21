@@ -12,7 +12,7 @@ My research interests include:
 - Software Testing  
 - Software Development  
 
-**I'm developing a new webpage at https://denini08.github.io/cv (currently under construction).*
+**I'm developing a new webpage at https://denini08.github.io/cv*
 
 ---
 
